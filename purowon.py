@@ -1,0 +1,5 @@
+print()
+nombre = input("Ingresa tu nombre -> ")
+print()
+edad = int(input("Ingresa tu edad -> "))
+print (nombre,"es puro won","y ademas lleva",edad,"años valiendo caca")
